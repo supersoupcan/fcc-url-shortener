@@ -1,0 +1,23 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+}
+
+
+h2{
+  color: blue;
+  margin: 30px 0px;
+}
+
+h3 {
+  margin: 20px 0px;
+ }
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  max-width: 600px;
+  margin : 10px;
+}
